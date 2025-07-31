@@ -1,6 +1,6 @@
 📊 Project Overview: Online Super Store Analysis
 
-![Dashboard Screenshot 1](./1.png)
+![Dashboard Screenshot 1](./1.jpg)
 ![Dashboard Screenshot 2](./2.png)
 
 I analyzed a dataset of an online super store, I crafted insightful dashboards and leveraged advanced analytics to drive strategic decisions.
