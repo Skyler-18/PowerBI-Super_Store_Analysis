@@ -1,5 +1,6 @@
 📊 Project Overview: Online Super Store Analysis
 
+![1](https://github.com/user-attachments/assets/3b378d80-880e-4d20-9111-fc85150a8f86)
 
 I analyzed a dataset of an online super store, I crafted insightful dashboards and leveraged advanced analytics to drive strategic decisions.
 
